@@ -1,0 +1,18 @@
+ACOS math plugin is a mathematical plugin full of mathematical functions, constants, conditions, and more to make programming easier.
+
+
+
+Functions:
+	-All trigonometric functions (sin, cos, tan, csc, cot, …)
+	-All hyperbolic trigonometric function (sinh, cosh, tanh, …)
+	-Special functions like Gamma, Zeta, Error function, …
+	-Operations (sqrt, exponentiation, …)
+
+Constants: 
+	-Pi (float & double)
+	-e (float & double)
+	-macheroni constant
+	-goldenratio
+	-gravitational power
+	
+<v.0 beta>
