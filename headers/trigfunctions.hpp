@@ -1,5 +1,5 @@
-namespace AcosMath {
-	namespace Trigonometry {
+namespace acosmath {
+	namespace trigonometry {
 		double sin(double x);
 		double cos(double x);
 		double tan(double x);
